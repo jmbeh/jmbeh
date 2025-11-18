@@ -1,0 +1,54 @@
+# ============================================
+# SECRETS (Never commit - HIGH PRIORITY)
+# ============================================
+.env
+.env.local
+.env.*.local
+.env.example
+
+*.key
+*.pem
+secrets/
+credentials/
+
+# ============================================
+# DEPENDENCIES
+# ============================================
+node_modules/
+venv/
+__pycache__/
+
+# ============================================
+# BUILD OUTPUTS
+# ============================================
+dist/
+build/
+.next/
+out/
+*.log
+
+# ============================================
+# OS/EDITOR
+# ============================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ============================================
+# TESTING
+# ============================================
+coverage/
+.pytest_cache/
+
+# ============================================
+# DURABLE RULES FOR CLEAN GITHUB
+# ============================================
+# This repo represents ONE project only
+# Audience sees: code, README, package.json
+# Audience does NOT see: .env*, secrets, .DS_Store, repo_structure.md
+
+# Documentation files (private)
+repo_structure.md
