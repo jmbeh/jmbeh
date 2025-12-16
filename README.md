@@ -54,3 +54,11 @@ Here's what I'm working on next:
 
 These personal projects help me think through problems I tackle professionally. My work repos are internal, but I'm focused on monetization strategy (defining how we value and price AI/MCP/API primitives), building a prototype library for prototype-first development for the entire organization, and codifying expertise into teachable frameworks for teams and AI systems. When prototypes reveal flaws in my assumptions early, that's a win—teams move faster when we learn what doesn't work before committing at scale. Across all of it, my approach stays consistent: build to understand, use to validate, distill to refine.
 
+---
+
+### 📬 Let's Connect
+
+I value meaningful connections—let's trade notes on AI and monetization, or collaborate on interesting problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmbeh/)
+
