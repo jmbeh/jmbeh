@@ -30,7 +30,7 @@ To build and learn at this pace, I keep my stack modern and flexible:
 - **Prototyping:** Next.js, TypeScript, Python
 - **Data:** PostgreSQL, Prisma
 - **Infrastructure:** GitHub, Vercel
-- **Design:** Adobe Spectrum
+- **Design:** Tailwind CSS (personal); Adobe Spectrum (work)
 
 But honestly, the tools matter less than the mindset. I don't code for the mechanics; I code agentically to validate ideas, test hypotheses, prove the architecture holds—and ensure the intent is ultimately served.
 
