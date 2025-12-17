@@ -6,13 +6,17 @@
 
 ### 🧪 What I'm Building
 
-**[Nutty Baseball](https://github.com/jmbeh/nutty_baseball)** — Learning baseball alongside my son. Peanuts theme reframed "I don't know baseball" from embarrassing to endearing.
+**[Nutty Baseball](https://github.com/jmbeh/nutty_baseball)** — Learning baseball alongside my son. Peanuts theme reframed "I don't know baseball" from embarrassing to endearing.  
+*In progress: Ambient listening for backyard games—tracking scores from natural conversation.*
 
-**[Dad Aura](https://github.com/jmbeh/dad-aura)** — Real-time aura scoring from my son's Apple Watch. Lesson learned: him controlling score "flips" created more value than the scoring itself.
+**[Dad Aura](https://github.com/jmbeh/dad-aura)** — Real-time aura scoring from my son's Apple Watch. Lesson learned: him controlling score "flips" created more value than the scoring itself.  
+*In progress: AI guardrails that know when to say no and nurture healthy values.*
 
-**[Allegro](https://github.com/jmbeh/Allegro)** — Music practice companion. Learned that audio recognition trained on studio recordings fails when kids stop mid-phrase and play wrong notes.
+**[Allegro](https://github.com/jmbeh/Allegro)** — Music practice companion. Learned that audio recognition trained on studio recordings fails when kids stop mid-phrase and play wrong notes.  
+*In progress: Real-time "play along" suggestions so I can jam with my kids on guitar.*
 
-**[LifeSynced](https://github.com/jmbeh/LifeSynced)** — Unified calendar. Privacy-first design ([Personal Event] + password reveal) made it safe to demo with any audience.
+**[LifeSynced](https://github.com/jmbeh/LifeSynced)** — Unified calendar. Privacy-first design ([Personal Event] + password reveal) made it safe to demo with any audience.  
+*In progress: AI agent that proactively reminds and helps plan important life events.*
 
 ---
 
