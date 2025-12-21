@@ -16,14 +16,7 @@ Work repos are internal, but I generalize and share the patterns. **[Helpful Pro
 
 ### 🧪 What Else I'm Building
 
-<<<<<<< HEAD
 Outside of work, I'm focused on how AI shapes the next generation. The goal: helping young people become critical thinkers, ferocious readers, introspective creators, inquisitive scientists—productive, hungry learners who use AI safely, not as a shortcut that weakens judgment nor self-care. I build for my kids first, creating an ecosystem around music, sports, arts, science, the written and spoken word. This is work in progress, an ongoing journey.
-=======
-Here's where that work gets tested in the real world. I maintain this "personal lab" to validate agentic patterns on actual problems—for my family and for the community.
-
-**[Helpful Prompts](https://github.com/mostly-coherent/Helpful-Prompts)** — *Just released*  
-The prompts I use to code agentically. I generalized + share some of them here so you too can partner with AI to work effectively. More prompts exist in my Adobe workspace, but they're context- & infra-specific. Happy to discuss patterns and inspire you to build what works for your workflow.
->>>>>>> 2adf8f94e4c4deecd6358c6f6a1347cf35159a9d
 
 **[Nutty Baseball](https://github.com/mostly-coherent/nutty_baseball)** — I'm learning baseball alongside my son. The Peanuts theme wasn't just decoration; it reframed "I don't know baseball" from embarrassing to endearing.  
 *Next up: Ambient listening for backyard games—tracking scores from natural conversation.*
