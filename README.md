@@ -18,7 +18,7 @@ Work repos are internal to Adobe, but here's what I can share: **[Helpful Prompt
 
 Outside of work, I'm focused on steering AI to shape the next generation. The goal: help young people become critical thinkers with grit, life skills, and the wisdom to use AI safely—not as a shortcut that weakens judgment or self-reliance. I build with my kids first (music, sports, arts, literature, science). It's a work in progress.
 
-**[Sandlot Wisdom](https://github.com/mostly-coherent/Sandlot-Wisdom)** — I'm learning baseball alongside my son. The Peanuts theme wasn't just decoration; it reframed "I don't know baseball" from embarrassing to endearing.  
+**[Sandlot Wisdom](https://github.com/mostly-coherent/Sandlot-Wisdom)** — I'm learning baseball alongside my son. Building this together reframed "I don't know baseball" from embarrassing to endearing—there's something freeing about being a beginner alongside your kid.  
 *Next up: Ambient listening for backyard games—tracking scores from natural conversation.*
 
 **[Dad Aura](https://github.com/mostly-coherent/dad-aura)** — Real-time aura scoring from my son's Apple Watch. What surprised me: him controlling score "flips" created more engagement than the scoring itself.  
