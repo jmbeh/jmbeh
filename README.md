@@ -24,7 +24,7 @@ Outside of work, I'm focused on steering AI to shape the next generation. The go
 **[Dad Aura](https://github.com/mostly-coherent/dad-aura)** — Real-time aura scoring from my son's Apple Watch. What surprised me: him controlling score "flips" created more engagement than the scoring itself.  
 *Next up: AI guardrails that know when to say no and nurture healthy values.*
 
-**[Allegro](https://github.com/mostly-coherent/Allegro)** — A music practice companion to cultivate the love for music. I learned that audio recognition trained on studio recordings fails completely when kids stop + repeat mid-phrase and play wrong notes.  
+**[Allegro](https://github.com/mostly-coherent/Allegro)** — A music practice companion to cultivate the love for music. I learned that audio recognition trained on studio recordings fails completely when kids stop + repeat mid-phrase and play wrong notes. Current challenge: most APIs work on full songs (multi-instrument + vocals), but I need to identify songs from single-instrument playing (just piano or guitar). Open to ideas!  
 *Next up: Real-time "play along" suggestions so I can jam with my kids on guitar.*
 
 **[LifeSynced](https://github.com/mostly-coherent/LifeSynced)** — Unified calendar with a privacy-first design. The "[Personal Event]" placeholder with password reveal made it safe to demo to any audience.  
