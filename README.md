@@ -8,7 +8,7 @@ I code agentically to gain clarity and depth on anything I tackle, then ship wha
 
 Director at Adobe Commerce, building a baseline suite of interactive prototypes that collectively represent the entire commerce platform and customer experiences. This enables teams to adopt prototype-first product development—exploring workflows through working examples, instead of parsing documentation. I saw teams internalize patterns faster when they can interact with prototypes. That's why I'm now helping teams code their way to certainty before committing at scale—keeping AI use principled and responsible in real-world systems.
 
-Work repos are internal to Adobe, but here's what I can share: **[Helpful Prompts](https://github.com/mostly-coherent/Helpful-Prompts)** captures some of the workflows and frameworks I use—adapted so they're infrastructure-agnostic and immediately useful. I value meaningful exchanges—let's trade notes on agentic workflows or what you're building with AI.
+Work repos are internal to Adobe, but here's what I can share: **[Helpful Agents](https://github.com/mostly-coherent/Helpful-Agents)** captures some of the workflows and frameworks I use—adapted so they're infrastructure-agnostic and immediately useful. I value meaningful exchanges—let's trade notes on agentic workflows or what you're building with AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmbeh/)
 
@@ -29,6 +29,9 @@ Outside of work, I'm focused on steering AI to shape the next generation. The go
 
 **[LifeSynced](https://github.com/mostly-coherent/LifeSynced)** — Unified calendar with a privacy-first design. The "[Personal Event]" placeholder with password reveal made it safe to demo to any audience.  
 *Next up: An AI agent that proactively reminds and helps plan the important life events.*
+
+**[Inspiration](https://github.com/mostly-coherent/Inspiration)** — Turn your Cursor AI conversations into actionable ideas and shareable insights. What surprised me: the patterns that emerge when you look across months of coding sessions—recurring problems worth solving, learnings worth sharing. The hard part: extracting signal from noise when conversations span multiple workspaces and topics.  
+*Next up: Vector search for massive chat histories—making your entire Cursor history instantly searchable as a second brain.*
 
 ---
 
