@@ -18,11 +18,8 @@ Work repos are internal to Adobe, but here's what I can share: **[Helpful Agents
 
 Outside of work, I'm focused on steering AI to shape the next generation. The goal: help young people become critical thinkers with grit, life skills, and the wisdom to use AI safely—not as a shortcut that weakens judgment or self-reliance. I build with my kids first (music, sports, arts, literature, science). It's a work in progress.
 
-**[Sandlot Wisdom](https://github.com/mostly-coherent/Sandlot-Wisdom)** — I'm learning baseball alongside my son. Building this together reframed "I don't know baseball" from embarrassing to endearing—there's something freeing about being a beginner alongside your kid.  
-*Next up: Ambient listening for backyard games—tracking scores from natural conversation.*
-
-**[Dad Aura](https://github.com/mostly-coherent/dad-aura)** — Real-time aura scoring from my son's Apple Watch. What surprised me: him controlling score "flips" created more engagement than the scoring itself.  
-*Next up: AI guardrails that know when to say no and nurture healthy values.*
+**[Inspiration](https://github.com/mostly-coherent/Inspiration)** — Turn your Cursor AI conversations into actionable ideas and shareable insights. What surprised me: the patterns that emerge when you look across months of agentic coding sessions—recurring problems worth solving, learnings worth sharing. Current focus: extracting recurring patterns and useful signals from GB of text data spanning multiple workspaces and topics.  
+*Next up: Finetuning performance to save cost and time while maintaining functionality, improving insight quality and user experience.*
 
 **[Allegro](https://github.com/mostly-coherent/Allegro)** — A music practice companion to cultivate the love for music. I learned that audio recognition trained on studio recordings fails completely when kids stop + repeat mid-phrase and play wrong notes. Current challenge: most APIs work on full songs (multi-instrument + vocals), but I need to identify songs from single-instrument playing (just piano or guitar). Open to ideas!  
 *Next up: Real-time "play along" suggestions so I can jam with my kids on guitar.*
@@ -30,8 +27,11 @@ Outside of work, I'm focused on steering AI to shape the next generation. The go
 **[LifeSynced](https://github.com/mostly-coherent/LifeSynced)** — Unified calendar with a privacy-first design. The "[Personal Event]" placeholder with password reveal made it safe to demo to any audience.  
 *Next up: An AI agent that proactively reminds and helps plan the important life events.*
 
-**[Inspiration](https://github.com/mostly-coherent/Inspiration)** — Turn your Cursor AI conversations into actionable ideas and shareable insights. What surprised me: the patterns that emerge when you look across months of agentic coding sessions—recurring problems worth solving, learnings worth sharing. Current focus: extracting recurring patterns and useful signals from GB of text data spanning multiple workspaces and topics.  
-*Next up: Finetuning performance to save cost and time while maintaining functionality, improving insight quality and user experience.*
+**[Dad Aura](https://github.com/mostly-coherent/dad-aura)** — Real-time aura scoring from my son's Apple Watch. What surprised me: him controlling score "flips" created more engagement than the scoring itself.  
+*Next up: AI guardrails that know when to say no and nurture healthy values.*
+
+**[Sandlot Wisdom](https://github.com/mostly-coherent/Sandlot-Wisdom)** — I'm learning baseball alongside my son. Building this together reframed "I don't know baseball" from embarrassing to endearing—there's something freeing about being a beginner alongside your kid.  
+*Next up: Ambient listening for backyard games—tracking scores from natural conversation.*
 
 ---
 
